@@ -64,12 +64,6 @@ Genres are encoded using `LabelEncoder`. Only the **first genre** is used for si
 
 Genres like **Action** and **Drama** performed better, while **Thriller**, **Mystery**, and **Animation** were difficult due to fewer samples.
 
-## Confusion Matrix Example
-
-Below is the confusion matrix from the Logistic Regression model:
-
-![Confusion Matrix - Logistic Regression](confusion_matrix_logistic_regression.png)
-
 ## How to Run This Project
 
 **Clone the Repository**:
