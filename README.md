@@ -69,3 +69,17 @@ Genres like **Action** and **Drama** performed better, while **Thriller**, **Mys
 **Clone the Repository**:
 ```bash
 git clone https://github.com/Gowry11/CodeClauseInternship-Movie-Genre-Prediction-2-.git
+```
+**Run the Notebook**:
+- Open MovieGenrePrediction.ipynb in Jupyter Notebook or any Python IDE.
+- Run all cells step-by-step.
+
+ ## What You’ll Learn
+- Basics of NLP text cleaning and feature extraction
+- Applying TF-IDF for vectorizing text
+- Training and evaluating ML models for classification
+- Understanding model performance using precision, recall, F1-score
+- Challenges in real-world datasets (imbalance, multi-label)
+
+## Developed By  
+Gowry P P
