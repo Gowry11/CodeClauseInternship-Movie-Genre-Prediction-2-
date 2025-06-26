@@ -74,7 +74,7 @@ git clone https://github.com/Gowry11/CodeClauseInternship-Movie-Genre-Prediction
 - Open MovieGenrePrediction.ipynb in Jupyter Notebook or any Python IDE.
 - Run all cells step-by-step.
 
- ## What You’ll Learn
+ ## Concepts Covered
 - Basics of NLP text cleaning and feature extraction
 - Applying TF-IDF for vectorizing text
 - Training and evaluating ML models for classification
